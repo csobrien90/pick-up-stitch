@@ -1,0 +1,14 @@
+{
+	"name": "pick-up-stitch",
+	"description": "Pick Up Stitch takes as arguments the total number of stitches and the number of stitches to pick up. It returns, as a string, the most efficient and even pattern of stitches to pick up.",
+	"author": "Chad O'Brien",
+	"type": "module",
+	"license": "MIT",
+	"version": "0.1.0",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"inquirer": "^9.1.4"
+	}
+}
